@@ -386,11 +386,3 @@ Website: https://git-lfs.github.com/
 Install: `brew install git-lfs`
 
 Track `*.psd` files: `git lfs track "*.psd"` (init, add, commit and push as written above)
-
-
-Resources
------------
-
-Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
-
-Interactive Beginners Tutorial: http://try.github.io/

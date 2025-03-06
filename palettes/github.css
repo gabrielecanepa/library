@@ -1,6 +1,4 @@
-/* prettier-ignore */
 :root {
-  /* ====== Core ====== */
   --color-canvas-default-transparent: rgba(255, 255, 255, 0);
   --color-page-header-bg: #f6f8fa;
   --color-marketing-icon-primary: #218bff;
@@ -453,8 +451,7 @@
   --color-scale-coral-8: #691105; /* [105, 17, 5] */
   --color-scale-coral-9: #510901; /* [81, 9, 1] */
 
-  /* ====== Calendar graph ====== */
-  /* === Dark === */
+  /* Calendar graph */
   --color-calendar-graph-day-L1-bg: #0e4429;
   --color-calendar-graph-day-L2-bg: #006d32;
   --color-calendar-graph-day-L3-bg: #26a641;

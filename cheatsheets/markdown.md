@@ -49,8 +49,6 @@ example.com (but not on Github, for example).
 ### Images
 
 ```markdown
-Here's our logo (hover to see the title text):
-
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
@@ -59,8 +57,6 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ```
-
-Here's our logo (hover to see the title text):
 
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
@@ -74,16 +70,16 @@ Reference-style:
 
 Github uses **Linguist** to perform language detection and syntax highlighting.
 
-Here a list of common languages that can be used (see full list at [Linguist - languages.yml](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)):
+Here a list of common languages that can be used (see full list [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)):
 
 ```yaml
 - c
-- cpp # C++
+- cpp
 - cs
 - css
 - csv
 - bash
-- erb # HTML + Embedded Ruby
+- erb
 - haml
 - http
 - java
@@ -94,13 +90,13 @@ Here a list of common languages that can be used (see full list at [Linguist - l
 - markdown
 - php
 - python
-- shell, sh, zsh, bash # Shell scripting
+- shell, sh, zsh, bash
 - sql
 - scss
 - sql
 - svg
 - swift
-- rb, jruby, ruby # Ruby
-- xml # XML and also used for HTML with inline CSS and Javascript
+- rb, jruby, ruby
+- xml
 - yaml
 ```
