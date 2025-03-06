@@ -1,6 +1,6 @@
-## `@gabrielecanepa`'s Utils
+## Library
 
-Collection of assets, cheatsheets and snippets for everyday use.
+My library of assets, cheatsheets and snippets for everyday use.
 
 ### Cheatsheets
 
@@ -17,7 +17,7 @@ Quick reference guides for common programming topics.
 
 ### Snippets
 
-Useful code snippets for web development.
+Common code snippets for rapid software development.
 
 #### Shell
 
