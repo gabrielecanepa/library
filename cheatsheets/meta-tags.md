@@ -1,7 +1,8 @@
-# Metatags
+# Meta Tags
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Template](#template)
 - [Recommended Minimum](#recommended-minimum)
 - [Elements](#elements)
@@ -10,22 +11,8 @@
   - [Link](#link)
   - [Favicons](#favicons)
   - [Social](#social)
-    - [Facebook Open Graph](#facebook-open-graph-and-instant-articles)
-    - [Twitter Card](#twitter-card)
-    - [Google+](#google-plus)
-    - [OEmbed](#oembed)
   - [Browsers / Platforms](#browsers--platforms)
-    - [Apple iOS](#apple-ios)
-    - [Apple Safari](#apple-safari)
-    - [Google Android](#google-android)
-    - [Google Chrome](#google-chrome)
-    - [Google Chrome Mobile (Android Only)](#google-chrome-mobile-android-only)
-    - [Microsoft Internet Explorer](#microsoft-internet-explorer)
   - [Browsers (Chinese)](#browsers-chinese)
-    - [360 Browser](#360-browser)
-    - [QQ Mobile Browser](#qq-mobile-browser)
-    - [UC Mobile Browser](#uc-mobile-browser)
-    - [App Links](#app-links)
 - [Notes](#notes)
   - [Related Resources](#related-resources)
 
